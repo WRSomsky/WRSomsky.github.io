@@ -1,11 +1,10 @@
 <svg
   xmlns="http://www.w3.org/2000/svg"
-  height="24" width="24" viewBox="0 0 128 128"
-  fill="currentColor" fill-opacity="0"
-  stroke="currentColor" stroke-width="9"
+  viewBox="0 0 128 128" width="24" height="24"
+  fill="currentColor" stroke="currentColor" stroke-width="9"
   class="{{ with .class }}{{ . }} {{ end }}icon icon-blog"
   >
-  <circle cx="64.000" cy="64.000" r="57.494" />
+  <circle cx="64.000" cy="64.000" r="57.494" style="fill-opacity:0.0"/>
   <circle cx="72.304" cy="51.862" r="17.444" style="fill-opacity:0.5" />
   <circle cx="95.016" cy="34.852" r=" 8.931" style="fill-opacity:0.5" />
   <circle cx="41.288" cy="81.009" r="23.119" style="fill-opacity:0.5" />
