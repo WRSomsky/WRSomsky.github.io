@@ -1,4 +1,100 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title =  "A Turn for the WRS"
-theme = 'mainroad'
+theme = "mainroad"
+languageCode = "en-us"
+title = "A Turn for the WRS"
+timeZone = "America/Los_Angeles"
+
+#enableEmoji = true
+enableGitInfo = true
+cleanDestinationDir = true
+
+[Params]
+  copyright = "WRSomsky" 
+  dateformat = "2006-01-02"
+  description = "WRSomsky's Site for Science, Math, Computers, and Miscellany"
+  ignoreFiles = ['@Hold', '@HOLD']
+
+  pager = true
+  mainSections = ["blog"]
+  customCSS = ["css/custom.css"]
+  post_meta = ["date", "categories", "tags" ]
+
+# timeout = '30s'
+# summarylength = 70
+# titlecasestyle = 'AP'
+# pluralizelisttitles = true
+# capitalizelisttitles = true
+# defaultcontentlanguage = 'en'
+# toc = true # Enable Table of Contents
+# readmore = false # Show "Read more" button in list
+# customJS = ["js/custom.js"] # Include custom JS files
+# mathjax= true # Enable MathJax
+# mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+# mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js"
+
+[Params.style.vars]
+  highlightColor = "#990066" # Override highlight color
+
+[Params.logo]
+  image = "img/SGClassic-cw.gif"
+  subtitle = "WRSomsky's Site for Science, Math, Computers, and Miscellany"
+
+## [Params.thumbnail]
+##   visibility = ["list", "post", "posts"] # Control thumbnail visibility
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  widgets = [ "recent", "categories", "taglist", "social"]
+
+[Params.widgets]
+  recent_num = 5
+  tags_counter = true
+  categories_counter = true
+
+## [Params.widgets.social]
+##   cached = true
+
+[[Params.widgets.social.custom]]
+  title = "Blog"
+  icon = "svg/atftw.svg"
+  rel = "noopener noreferrer"
+  url = "https://wrsomsky.github.io"
+
+[[Params.widgets.social.custom]]
+  title = "Email"
+  icon = "svg/email.svg"
+  rel = "noopener noreferrer"
+  url = "mailto:wrsomsky@gmail.com"
+
+[[Params.widgets.social.custom]]
+  title = "GitHub"
+  icon = "svg/github.svg"
+  rel = "noopener noreferrer"
+  url = "https://github.com/wrsomsky"
+
+[[Params.widgets.social.custom]]
+  title = "YouTube"
+  icon = "svg/youtube.svg"
+  rel = "noopener noreferrer"
+  url = "https://youtube.com/@WRSomsky"
+
+[[Params.widgets.social.custom]]
+  title = "Facebook"
+  icon = "svg/facebook.svg"
+  rel = "noopener noreferrer"
+  url = "https://www.facebook.com/wrsomsky"
+
+[[Params.widgets.social.custom]]
+  title = "DeviantArt"
+  icon = "svg/devart.svg"
+  rel = "noopener noreferrer"
+  url = "https://www.deviantart.com/wrsomsky"
+
+## [Params.widgets.search]
+##   cached = false # activate cache if true
+##   url = "https://google.com/search"
+##   [Params.widgets.search.input]
+##     name = "sitesearch"
+##     pre = ""
+
