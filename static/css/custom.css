@@ -77,6 +77,14 @@ h1, h2, h3, h4, h5, h6 {
   vertical-align: middle;
   }
 
+.list__meta {
+  margin: 0;
+  padding: 0;
+  border-top: none;
+  ##border-bottom: 2px #906 solid;
+  border-bottom: none ;
+  }
+
 .post__meta {
   margin: 0;
   padding: 0;
