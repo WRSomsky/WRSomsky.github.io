@@ -5,6 +5,10 @@ a:hover {
   font-weight: bold;
   }
 
+.footer {
+  border-top: 5px solid #906;
+  }
+
 a.footer__link:hover {
   color: #f6c;
   font-weight: bold;
