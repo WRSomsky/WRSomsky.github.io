@@ -25,7 +25,7 @@ People who create such aliases
 are trying to alleviate one of the inherent dangers of `rm`
 that can best be summed up as follows:
 *In Unix(Linux), 'rm' is forever*.
-This addage ranks right up there with:
+This adage ranks right up there with:
 *Always assume the gun is loaded.*
 
 With `rm`, there is no "trash can"
@@ -78,13 +78,14 @@ the shell will come back with "*`del: Command not found.`*",
 rather than gladly deleting all the files in the current directory
 as an unadorned `rm` would.
 And seeing that error message, you will remember:
-"*Oh yes. That's my own alias. I'll have use `rm` and be very careful.*"
+"*Oh yes. That's my own alias.
+I'll have to use `rm` and be very careful.*"
 (Or you could setup your `del` alias directly
 in the current shell and use it until you exit.)
 
 There are other limitations of `rm -i` as well.
 For one, it gets very tedious to answer `yes` to each file
-when you're deleting even a moderately large number of files.
+when you're deleting even a moderate number of files.
 In fact, you may develop a habit of just anwering `yes` automatically
 w/out carefully looking at what `rm` is saying it's actually going to delete.
 (Do you *really* read all those EULA terms and conditions
