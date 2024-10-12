@@ -14,6 +14,7 @@ cleanDestinationDir = true
   ignoreFiles = ['@Hold', '@HOLD']
 
   pager = true
+  readmore = true
   mainSections = ["blog"]
   customCSS = ["css/custom.css"]
   post_meta = ["date", "categories", "tags" ]
