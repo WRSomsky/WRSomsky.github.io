@@ -28,6 +28,11 @@ a:hover {
   text-decoration: underline ;
   }
 
+.btn:hover,
+.menu__link:hover {
+  text-decoration: none;
+  }
+
 .content a,
 .warning a,
 .authorbox__description a
