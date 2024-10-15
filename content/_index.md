@@ -19,4 +19,4 @@ As case in point for the latter:
 the site title is meant to be pronounced *"A Turn for the Worse"*.
 &#x1f601; <!-- :grin: -->
 
-## Recent Activity
+# Recent Activity
