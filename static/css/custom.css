@@ -1,6 +1,11 @@
 #.menu__item:hover { font-weight: bold; }
 #.menu__link:hover { font-weight: bold; }
 
+.body {
+  background-attachment: fixed;
+  background-image: url('/img/WRSMayan.png');
+  }
+
 p {
   margin-bottom: 12px;
   margin-bottom: 0.75rem;
