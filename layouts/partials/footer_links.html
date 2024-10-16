@@ -1,0 +1,9 @@
+{{- with .Site.Menus.footer }}
+<div class="footer__links">
+	{{ range $key, $value := . }}
+		{{- if ne $key 0 }} | {{ end -}}
+		<a class="footer__link" href="{{ $value.URL }}">{{ $value.Name }}</a>
+	{{- end }}
+	| <a class="footer__link" href="/index.xml">RSS</a>
+</div>
+{{- end }}
