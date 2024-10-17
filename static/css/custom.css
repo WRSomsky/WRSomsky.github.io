@@ -91,8 +91,22 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0.5rem ;
   }
 
+.widget-social__link {
+  fill: #666;
+  color: #666;
+  background: #eee;
+  border-radius: 1ex;
+  }
+
+.widget-social__link:hover {
+  fill: white;
+  color: white;
+  background: #906;
+  }
+
 .widget-social__link-icon {
   vertical-align: middle;
+  fill: inherit ;
   }
 
 .widget-social__link span {
@@ -127,11 +141,6 @@ img[src$='#floatleft'] {
 
 .menu__item--active {
   background: none ;
-  }
-
-.widget-social__link {
-  background: #aaa;
-  border-radius: 1ex;
   }
 
 .logo {
