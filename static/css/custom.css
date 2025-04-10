@@ -2,8 +2,9 @@
 #.menu__link:hover { font-weight: bold; }
 
 .body {
-  background-attachment: fixed;
-  background-image: url('/img/WRSMayan.png');
+  background-color: #666;
+  #background-attachment: fixed;
+  #background-image: url('/img/WRSMayan.png');
   }
 
 p {
