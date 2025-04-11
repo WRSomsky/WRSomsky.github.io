@@ -1,13 +1,8 @@
 +++
 date  = 2025-01-15
 title = 'Quantum Dots'
-
-categories = [
-  "physics"
-  ]
-tags = [
-  "humor"
-  ]
+categories = [ "physics" ]
+tags = [ "humor" ]
 +++
 
 **Q:** What is a quantum dot?
