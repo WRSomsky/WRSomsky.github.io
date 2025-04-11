@@ -4,8 +4,11 @@ title = "A Turn for the WRS"
 timeZone = "America/Los_Angeles"
 
 #enableEmoji = true
-enableGitInfo = true
+enableGitInfo = false
 cleanDestinationDir = true
+
+[frontmatter]
+  lastmod = ['moddate', ':default']
 
 [Params]
   copyright = "WRSomsky" 

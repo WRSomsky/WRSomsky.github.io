@@ -1,5 +1,5 @@
 +++
-date  = 2025-01-15
+pubdate = 2025-01-15 13:28:35
 title = 'Quantum Dots'
 categories = [ "physics" ]
 tags = [ "humor" ]

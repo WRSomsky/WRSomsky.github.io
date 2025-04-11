@@ -1,6 +1,7 @@
 +++
 title = 'Aliasing "rm -i" Considered Harmful'
-date = 2024-10-04T22:13:03-07:00
+pubdate = 2024-10-04 22:09:49
+moddate = 2024-10-10 14:09:28
 categories = [ 'unix/linux' ]
 tags = [ 'shell', 'peeve' ]
 +++

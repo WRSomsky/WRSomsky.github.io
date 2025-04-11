@@ -1,6 +1,6 @@
 +++
 title =  "First Post"
-date = 2024-10-02T23:50:23-07:00
+pubdate = 2024-10-03 19:52:53
 categories = [ 'miscellaneous' ]
 tags = [ ]
 +++
