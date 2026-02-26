@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on A Turn for the WRS</title>
+    <link>/blog/</link>
+    <description>Recent content in Blog on A Turn for the WRS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Feb 2026 13:09:41 -0800</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Super-cali...what???</title>
+      <link>/blog/0005/</link>
+      <pubDate>Thu, 12 Feb 2026 13:09:41 -0800</pubDate>
+      <guid>/blog/0005/</guid>
+      <description>&lt;p&gt;It is a little know fact that,&#xA;as she got older,&#xA;Mary Poppins acquired diabetes.&#xA;Needless to say,&#xA;her habit of having&#xA;a &lt;em&gt;spoon full of sugar&lt;/em&gt;&#xA;to &lt;em&gt;help the medicine go down&lt;/em&gt;&#xA;is not a recommended practice for diabetics.&#xA;She eventually succumbed to the disease&#xA;and the coroner listed her cause of death&#xA;as &lt;em&gt;super-caloratic-induced-ketoacidosis&lt;/em&gt;.&#xA;😁 &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Avoiding Shell Bloat</title>
+      <link>/blog/0004/</link>
+      <pubDate>Thu, 14 Aug 2025 14:57:13 -0700</pubDate>
+      <guid>/blog/0004/</guid>
+      <description>&lt;p&gt;There are many things that can be done&#xA;to customize and extend&#xA;the behavior of your command shell,&#xA;and modern Linux distros provide&#xA;a large number of these activated by default:&#xA;from handy aliases and colorized output settings&#xA;to command line completion and new command installation.&lt;/p&gt;&#xA;&lt;p&gt;But what if you don&amp;rsquo;t &lt;em&gt;want&lt;/em&gt; all those extra settings/extensions?&#xA;What if you want to exert a finer control of such things yourself?&#xA;Here is a method of granting such control to you and your users&#xA;on a per-user, opt-in basis.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quantum Dots</title>
+      <link>/blog/0003/</link>
+      <pubDate>Wed, 15 Jan 2025 13:28:35 -0800</pubDate>
+      <guid>/blog/0003/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Q:&lt;/strong&gt; What is a quantum dot?&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;A:&lt;/strong&gt; A quantum dot &amp;mdash; short for a quantum Dorothy &amp;mdash;&#xA;is someone who, because of quantum superposition,&#xA;is simultaneously both &lt;em&gt;in&lt;/em&gt; and &lt;em&gt;not in&lt;/em&gt; Kansas anymore.&#xA;😁 &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Aliasing &#34;rm -i&#34; Considered Harmful</title>
+      <link>/blog/0002/</link>
+      <pubDate>Fri, 04 Oct 2024 22:09:49 -0700</pubDate>
+      <guid>/blog/0002/</guid>
+      <description>&lt;p&gt;I always cringe when I see a user&#xA;&amp;mdash; or worse, a system default &amp;mdash;&#xA;that has a shell alias of &lt;code&gt;rm = &#39;rm -i&#39;&lt;/code&gt;.&#xA;Why? Because I consider this a very dangerous thing to do.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>/blog/0001/</link>
+      <pubDate>Thu, 03 Oct 2024 19:52:53 -0700</pubDate>
+      <guid>/blog/0001/</guid>
+      <description>&lt;p&gt;First post! 😁 &lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

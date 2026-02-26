@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on A Turn for the WRS</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on A Turn for the WRS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Feb 2026 13:09:41 -0800</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medical</title>
+      <link>/categories/medical/</link>
+      <pubDate>Thu, 12 Feb 2026 13:09:41 -0800</pubDate>
+      <guid>/categories/medical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unix/Linux</title>
+      <link>/categories/unix/linux/</link>
+      <pubDate>Thu, 14 Aug 2025 14:57:13 -0700</pubDate>
+      <guid>/categories/unix/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics</title>
+      <link>/categories/physics/</link>
+      <pubDate>Wed, 15 Jan 2025 13:28:35 -0800</pubDate>
+      <guid>/categories/physics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miscellaneous</title>
+      <link>/categories/miscellaneous/</link>
+      <pubDate>Thu, 03 Oct 2024 19:52:53 -0700</pubDate>
+      <guid>/categories/miscellaneous/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

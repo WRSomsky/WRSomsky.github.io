@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sysadmin on A Turn for the WRS</title>
+    <link>/tags/sysadmin/</link>
+    <description>Recent content in Sysadmin on A Turn for the WRS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Aug 2025 14:57:13 -0700</lastBuildDate>
+    <atom:link href="/tags/sysadmin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avoiding Shell Bloat</title>
+      <link>/blog/0004/</link>
+      <pubDate>Thu, 14 Aug 2025 14:57:13 -0700</pubDate>
+      <guid>/blog/0004/</guid>
+      <description>&lt;p&gt;There are many things that can be done&#xA;to customize and extend&#xA;the behavior of your command shell,&#xA;and modern Linux distros provide&#xA;a large number of these activated by default:&#xA;from handy aliases and colorized output settings&#xA;to command line completion and new command installation.&lt;/p&gt;&#xA;&lt;p&gt;But what if you don&amp;rsquo;t &lt;em&gt;want&lt;/em&gt; all those extra settings/extensions?&#xA;What if you want to exert a finer control of such things yourself?&#xA;Here is a method of granting such control to you and your users&#xA;on a per-user, opt-in basis.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

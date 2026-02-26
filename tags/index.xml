@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on A Turn for the WRS</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on A Turn for the WRS</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Feb 2026 13:09:41 -0800</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humor</title>
+      <link>/tags/humor/</link>
+      <pubDate>Thu, 12 Feb 2026 13:09:41 -0800</pubDate>
+      <guid>/tags/humor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shell</title>
+      <link>/tags/shell/</link>
+      <pubDate>Thu, 14 Aug 2025 14:57:13 -0700</pubDate>
+      <guid>/tags/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sysadmin</title>
+      <link>/tags/sysadmin/</link>
+      <pubDate>Thu, 14 Aug 2025 14:57:13 -0700</pubDate>
+      <guid>/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peeve</title>
+      <link>/tags/peeve/</link>
+      <pubDate>Fri, 04 Oct 2024 22:09:49 -0700</pubDate>
+      <guid>/tags/peeve/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
